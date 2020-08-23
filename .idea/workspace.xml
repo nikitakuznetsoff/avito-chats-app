@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bafe580c-4f0a-4e64-9940-ded2dc45281d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gQ0kuOeSXdcFRltQBNKeWQL91I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Courses/Golang/Homeworks" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/deployments" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/pkg/db" />
+      <recent name="$PROJECT_DIR$/pkg/chats" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="107" width="800" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598133859242">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="398" y="107" width="800" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.1472.837@64.27.1472.837" timestamp="1598133859242" />
+    <state x="500" y="248" width="596" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598200514547">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="500" y="248" width="596" height="408" key="#com.intellij.fileTypes.FileTypeChooser/64.27.1472.837@64.27.1472.837" timestamp="1598200514547" />
+    <state x="586" y="194" width="424" height="496" key="FileChooserDialogImpl" timestamp="1598190026439">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="586" y="194" width="424" height="496" key="FileChooserDialogImpl/64.27.1472.837@64.27.1472.837" timestamp="1598190026439" />
+    <state x="489" y="182" width="621" height="522" key="find.popup" timestamp="1598134660071">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="489" y="182" width="621" height="522" key="find.popup/64.27.1472.837@64.27.1472.837" timestamp="1598134660071" />
+    <state x="463" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1598125301174">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="463" y="185" width="672" height="678" key="search.everywhere.popup/64.27.1472.837@64.27.1472.837" timestamp="1598125301174" />
+  </component>
+</project>
