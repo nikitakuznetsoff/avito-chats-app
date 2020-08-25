@@ -59,6 +59,6 @@ AvitoChats
 - ```cmd/chatsapp/main.go``` - файл для запуска приложения
 - ```pkg/database``` - реализация работы с БД по паттерну "Репозиторий"
 - ```pkg/handlers``` - HTTP обработчики для запросов
-- ```pkg/models``` - Описания объектов
-- ```script/wait-for-it.sh``` - Скрипт для ожидания доступности TCP хоста с портом ```https://github.com/vishnubob/wait-for-it```
+- ```pkg/models``` - описания объектов
+- ```script/wait-for-it.sh``` - скрипт для ожидания доступности TCP хоста с портом ```https://github.com/vishnubob/wait-for-it```
   > Используется во время развертывания
